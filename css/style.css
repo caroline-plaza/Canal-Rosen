@@ -52,7 +52,7 @@ header{
     background-size: cover;
     text-align: center; 
     font-size: 2rem;
-    top: 50%;
+    top: 40%;
 }
 
 
@@ -64,7 +64,7 @@ header{
     background-size: cover;
     text-align: center;
     font-size: 2rem;
-    top: 50%;
+    top: 40%;
 }
 
 .titulo-seccion-videos {
@@ -75,7 +75,7 @@ header{
     background-size: cover;
     text-align: center;
     font-size: 2rem;
-    top: 50%;
+    top: 40%;
    
 }
 
@@ -87,7 +87,7 @@ header{
     background-size: cover;
     text-align: center;
     font-size: 2rem;
-    top: 50%;
+    top: 40%;
    
 }
 
@@ -100,7 +100,7 @@ header{
     background-size: cover;
     text-align: center;
     font-size: 2rem;
-    top: 50%;
+    top: 40%;
    
 }
 
@@ -111,7 +111,7 @@ header{
     font-weight: 700;
     text-shadow: #383838;
     text-align: center;
-    padding-top: 225px;
+    padding-top: 210px;
 }
 
 /*-----termina el menu------*/
@@ -282,6 +282,8 @@ header{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 10px;
+    margin-left: 2rem;
+    margin-right: 2rem;
 
 }
 
