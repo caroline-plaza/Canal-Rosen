@@ -1,0 +1,26 @@
+
+
+/* Footer */
+.pie-de-pagina {
+    font-family: 'inter';
+    width: 100%;
+    background-color: #38484e;
+    padding: 50px;
+    align-items: center;
+
+    .pie-redes {
+        display: flex;
+        flex-flow: wrap;
+        justify-content: center;
+
+        img {
+            padding: 5px;
+        }
+    }
+
+    .texto-pie {
+        color: #ffffff;
+        text-align: center;
+        font-size: small;
+    }
+}
